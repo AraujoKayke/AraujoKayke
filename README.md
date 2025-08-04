@@ -1,8 +1,11 @@
-## Oiii eu sou Kayke Araujo Guimarães
+## Olá eu sou Kayke Araujo Guimarães
+◆ Atualmente Trabalho Como Aprendiz com RPA
+◆ Cursando Anállise e Desenvolvimento de Sistemas
+
 <div align="center">
-  <a href="https://github.com/K4Z1NH0">
+  <a href="https://github.com/AraujoKayke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AraukoKayke&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4Z1NH0&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoKayke&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   <div style="display: inline_block"><br>
