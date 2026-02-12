@@ -1,8 +1,10 @@
-## Olá eu sou Kayke Araujo Guimarães
+## Hello, I'm Kayke Araujo Guimarães
 
-◆ Atualmente Trabalho Como Aprendiz com RPA
+◆ I currently work as an Apprentice with RPA, using Automation Anywhere
 
-◆ Cursando Anállise e Desenvolvimento de Sistemas
+◆ I am studying Anállise and Systems Development
+
+## Technologies I'm learning!
 
 <div align="center">
   <a href="https://github.com/AraujoKayke">
