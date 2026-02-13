@@ -2,8 +2,8 @@
   <h2>Hello, I'm Kayke Araujo Guimarães 👋</h2>
 
   <p>
-    ◆ I currently work as an <b>Apprentice with RPA</b>, using Automation Anywhere<br>
-    ◆ I am studying <b>Analysis and Systems Development</b>
+    👩‍💻 I currently work as an <b>Apprentice with RPA</b>, using Automation Anywhere<br>
+    👨‍🎓 I am studying <b>Analysis and Systems Development</b>
   </p>
 
   <h3>Technologies I'm learning!</h3>
